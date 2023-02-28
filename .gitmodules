@@ -1,0 +1,3 @@
+[submodule "motion_tool"]
+	path = motion_tool
+	url = git@github.com:mentee-robotics/motion_tool.git
